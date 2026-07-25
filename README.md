@@ -34,8 +34,8 @@ A collection of chibi-style pixel art portraits created as a personal project.
 
 - Aseprite
 - Figma
-- Adobe Photoshop
-- Roblox Studio
+- Inkscape
+- Pixel Studio
 
 ## Find Me Online
 
