@@ -24,9 +24,3 @@ Contains the original editable `.aseprite` source files used to create the artwo
 Contains the exported `.png` versions of the finished artwork for easy viewing and sharing.
 
 [View PNG Files](./PNG%20Files)
-
-## Preview
-
-![Chibi Pixel Art](PNG%20Files/jeni.png)
-![Chibi Pixel Art](PNG%20Files/mizi.png)
-![Chibi Pixel Art](PNG%20Files/wisa.png)
