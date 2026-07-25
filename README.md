@@ -22,13 +22,16 @@ This repository serves as a collection of my artwork, creative projects, and edi
 ## Projects
 
 ### Chibi Pixel Art
-
 A collection of chibi-style pixel art portraits created as a personal project.
 
 - [View Project](./Chibi%20Pixel%20Art)
-- **Type:** Pixel Art
-- **Style:** Chibi
 - **Software:** Aseprite
+
+### HobbaRP Assets
+A collection of HobbaRP original assets. This includes the Logo, Icon, Banners, etc.
+
+- [View Project](./HobbaRP%20Files)
+- **Software:** Aseprite and Figma
 
 ## Tools
 
