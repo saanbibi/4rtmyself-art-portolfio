@@ -27,4 +27,6 @@ Contains the exported `.png` versions of the finished artwork for easy viewing a
 
 ## Preview
 
-![Chibi Pixel Art](PNG%20Files/jini.png)
+![Chibi Pixel Art](PNG%20Files/jeni.png)
+![Chibi Pixel Art](PNG%20Files/mizi.png)
+![Chibi Pixel Art](PNG%20Files/wisa.png)
