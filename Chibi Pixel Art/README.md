@@ -1,6 +1,6 @@
-# Chibi Pixel Arts
+# Chibi Pixel Art
 
-A collection of chibi-style pixel art portraits.
+A collection of chibi-style pixel art portraits created as a personal project.
 
 ## Project Details
 
@@ -11,8 +11,20 @@ A collection of chibi-style pixel art portraits.
 
 ## Description
 
-This project is a collection of chibi pixel-art portraits created as a personal project.
+This project is a collection of chibi pixel-art portraits. Each character was created in a simplified chibi style, focusing on capturing their individual appearance and personality through pixel art.
+
+## Files
+
+### Aseprite Files
+Contains the original editable `.aseprite` source files used to create the artwork.
+
+[View Aseprite Files](./Aseprite%20Files)
+
+### PNG Files
+Contains the exported `.png` versions of the finished artwork for easy viewing and sharing.
+
+[View PNG Files](./PNG%20Files)
 
 ## Preview
 
-![Jini's Chibi](jeni.png)
+![Chibi Pixel Art](PNG%20Files/jini.png)
