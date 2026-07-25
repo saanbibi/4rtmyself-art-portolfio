@@ -15,4 +15,4 @@ This project is a collection of chibi pixel-art portraits created as a personal 
 
 ## Preview
 
-![Chibi Pixel Art](preview.png)
+![Jini's Chibi](jeni.png)
